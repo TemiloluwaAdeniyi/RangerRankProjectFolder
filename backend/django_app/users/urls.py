@@ -1,5 +1,5 @@
-from django.urls import path, include
-from users.views import APILoginView, APILogoutView
+from django.urls import path
+from views import APILoginView, APILogoutView
 
 urlpatterns = [
     path('login/', APILoginView.as_view(), name='api_login'),
