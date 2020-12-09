@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fafd2bb5-21c0-4d34-8981-f4b720cac44b" name="New changelist" comment="New changelist">
+      <change afterPath="$PROJECT_DIR$/frontend/react_app/src/store/authActionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react_app/src/store/authActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react_app/src/store/authReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="5c8c7da1-441c-4d44-9351-d68b26f4c5a1" name="Default Changelist" comment="front end directory" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -31,7 +34,7 @@
         <entry key="$PROJECT_DIR$/frontend/react_app" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/react_app" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1kgR5laTJqzLFYzLUBzebzchflj" />
@@ -107,7 +110,7 @@
       <workItem from="1607229960174" duration="24318000" />
       <workItem from="1607262443540" duration="641000" />
       <workItem from="1607263213551" duration="9000" />
-      <workItem from="1607263238738" duration="18029000" />
+      <workItem from="1607263238738" duration="23109000" />
     </task>
     <task id="LOCAL-00001" summary="view issue resolved">
       <created>1607368244806</created>
@@ -130,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607383151329</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New changelist">
+      <created>1607395365931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607395365931</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
